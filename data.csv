@@ -1,0 +1,46 @@
+name,department,manager
+Homer Simpson,CEO,
+Ned Stark,HR,Homer Simpson
+Ash Ketchum,Marketing,Don Draper
+Tony Stark,Engineering,Homer Simpson
+Don Draper,Marketing,Leslie Knope
+Borat,Engineering,Tony Stark
+Master Chief,IT,Ned Stark
+Shrek,HR,Ned Stark
+Winnie the Pooh,IT,Master Chief
+Wonder Woman,Sales,Homer Simpson
+Stewie Griffin,Sales,Homer Simpson
+Gollum,Sales,Stewie Griffin
+Jack Sparrow,Sales,Gollum
+Hermione Granger,R&D,Homer Simpson
+Forrest Gump,R&D,Hermione Granger
+Sherlock Holmes,R&D,Hermione Granger
+Atticus Finch,Sales,Gollum
+Scarlett O'Hara,Marketing,Don Draper
+Mulan,Engineering,Tony Stark
+Minnie Mouse,Engineering,Tony Stark
+Liz Lemon,Sales,Wonder Woman
+Leslie Knope,Marketing,Homer Simpson
+The Little Prince,R&D,Sherlock Holmes
+Lucille Bluth,R&D,Sherlock Holmes
+Cookie Monster,Sales,Wonder Woman
+Bob the Builder,Engineering,Mulan
+Captain Ahab,HR,Ned Stark
+Nancy Drew,HR,Shrek
+Gilgamesh,R&D,Hermione Granger
+Lady Macbeth,Marketing,Leslie Knope
+Ebenezer Scrooge,Sales,Gollum
+Tim Riggins,Marketing,Don Draper
+Frasier,Engineering,Mulan
+Edward Scissorhands,HR,Shrek
+Buffy,Sales,Gollum
+Carrie Bradshaw,Marketing,Leslie Knope
+HAL 9000,R&D,Sherlock Holmes
+R2D2,Sales,Wonder Woman
+Astro Boy,Sales,Gollum
+Godzilla,IT,Master Chief
+Sir Lancelot,HR,Nancy Drew
+The Cat in The Hat,Sales,Stewie Griffin
+James Bond,R&D,Sherlock Holmes
+Snow White,Engineering,Minnie Mouse
+Vault Dweller,Marketing,Lady Macbeth
